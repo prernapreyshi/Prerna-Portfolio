@@ -44,11 +44,11 @@ const services = [
   },
 ];
 
-const Services = () => {
+const Skills = () => {
   return (
     <Box id="services" bg="brand.light" color="brand.dark" py={16} px={6}>
       <Heading textAlign="center" mb={12}>
-        My Services
+        My Skills
       </Heading>
       <SimpleGrid
         columns={{ base: 1, md: 2, lg: 3 }}
@@ -79,4 +79,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Skills;

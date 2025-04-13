@@ -6,7 +6,7 @@ import theme from "./theme"; // ✅ Make sure this is a valid exported object
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import AboutMe from "./components/AboutMe";
-import Services from "./components/Services";
+import Skills from "./components/Services";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 
@@ -56,8 +56,8 @@ function App() {
             <AboutMe />
           </Element>
 
-          <Element name="services">
-            <Services />
+          <Element name="skills">
+            <Skills />
           </Element>
 
           <Element name="projects">

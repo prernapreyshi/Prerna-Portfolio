@@ -12,7 +12,7 @@ import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
 import { Link as ScrollLink } from "react-scroll";
 import { useEffect, useState } from "react";
 
-const links = ["Home", "About Me", "Services", "Projects", "Contact"];
+const links = ["Home", "About Me", "Skills", "Projects", "Contact"];
 
 const NavLink = ({ to, children }) => (
   <ChakraLink
