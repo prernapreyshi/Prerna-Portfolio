@@ -34,13 +34,7 @@ const HeroSection = () => {
           >
             Download Resume
           </Button>
-          <Button
-            bg="brand.light"
-            color="brand.dark"
-            _hover={{ bg: "brand.accentLight" }}
-          >
-            Hire Me
-          </Button>
+          
         </Stack>
       </Stack>
     </Box>
