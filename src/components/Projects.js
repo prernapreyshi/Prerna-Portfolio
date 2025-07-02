@@ -30,6 +30,12 @@ const projects = [
       "An e-commerce website for a coffee shop built with React. Features product browsing, UI/UX-focused design, and responsive layout for mobile and desktop.",
     link: "https://github.com/prernapreyshi/coffee_cafe",
   },
+  {
+    title: "DreamDestina",
+    description:
+      "Created a responsive travel guide website that helps users discover popular attractions in various destinations, offering personalized exploration through filters and intuitive design.",
+    link: "https://github.com/prernapreyshi/DreamDestina",
+  },
 ];
 
 const Projects = () => {
