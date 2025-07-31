@@ -5,7 +5,7 @@ import { Code, Palette, Rocket, Heart } from 'lucide-react';
 const About = () => {
   const skills = [
     'JavaScript', 'C/C++', 'MongoDB', 'HTML', 'CSS', 'SQL', 'React', 'TypeScript', 
-    'Node.js', 'Python', 'PostgreSQL', 'Tailwind CSS', 'Next.js', 'AWS', 'Docker', 'REST APIs'
+    'Node.js', 'Java', 'PostgreSQL', 'Tailwind CSS', 'Next.js', 'AWS', 'REST APIs'
   ];
 
   const highlights = [

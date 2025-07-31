@@ -5,7 +5,7 @@ import { Badge } from '@/components/ui/badge';
 import { ExternalLink, Github } from 'lucide-react';
 
 import project1 from '@/assets/project-1.png';
-import project2 from '@/assets/project-2.jpg';
+import project2 from '@/assets/project-2.png';
 import project3 from '@/assets/project-3.jpg';
 import project4 from '@/assets/project-4.png';
 import project5 from '@/assets/project-5.png';
@@ -18,7 +18,7 @@ const Projects = () => {
       title: 'E-Commerce Platform',
       description: 'A modern, responsive e-commerce platform built with React and Node.js, featuring a dynamic product display, smooth cart management, and intuitive user experience.',
       image: project1,
-      technologies: ['React', 'Node.js', 'PostgreSQL', 'Stripe'],
+      technologies: ['React', 'Node.js', 'HTML', 'CSS','Tailwind'],
       liveUrl: '#',
       githubUrl: '#'
     },
@@ -27,16 +27,16 @@ const Projects = () => {
       title: 'Analytics Dashboard',
       description: 'A comprehensive analytics dashboard for business intelligence. Built with Next.js and featuring real-time data visualization and interactive charts.',
       image: project2,
-      technologies: ['Next.js', 'TypeScript', 'Chart.js', 'API'],
+      technologies: ['React', 'JavaScript', 'API','HTML', 'CSS'],
       liveUrl: '#',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/prernapreyshi/Analytics-Dashboard'
     },
     {
       id: 3,
       title: 'Personal Blog',
       description: 'A clean, minimalist blog platform with markdown support, tag system, and SEO optimization. Built with modern web technologies.',
       image: project3,
-      technologies: ['React', 'Tailwind', 'Markdown', 'CMS'],
+      technologies: ['React', 'Tailwind', 'HTML', 'CSS'],
       liveUrl: '#',
       githubUrl: '#'
     },
@@ -45,7 +45,7 @@ const Projects = () => {
       title: 'ShareMyRide',
       description: 'A simple, reliable ride-sharing platform connecting drivers and passengers in real-time. Built for convenience, trust, and seamless travel experiences.',
       image: project4,
-      technologies: ['React', 'Tailwind', 'Node.js', 'API'],
+      technologies: ['React', 'Tailwind', 'Node.js', 'API','Firebase','HTML','CSS','JavaScript','Chakra UI'],
       liveUrl: 'https://share-my-ride.vercel.app/',
       githubUrl: 'https://github.com/prernapreyshi/ShareMyRide'
     },
@@ -55,8 +55,8 @@ const Projects = () => {
       description: 'A sleek, responsive café storefront featuring curated brews and delightful treats, built with a modern UI and seamless navigation to enhance the online café experience.',
       image: project5,
       technologies: ['HTML', 'CSS', 'JavaScript'],
-      liveUrl: 'https://soft-sell-mu-two.vercel.app/',
-      githubUrl: 'https://github.com/prernapreyshi/SoftSell'
+      liveUrl: 'https://coffee-cafe-six.vercel.app/',
+      githubUrl: 'https://github.com/prernapreyshi/coffee_cafe'
     },
     {
       id: 6,
@@ -64,8 +64,8 @@ const Projects = () => {
       description: 'A responsive, single-page marketing website designed for a fictional software resale startup showcasing the ability to quickly build a modern, visually appealing, and user-friendly web experience.',
       image: project6,
       technologies: ['HTML', 'CSS', 'JavaScript'],
-      liveUrl: 'https://coffee-cafe-six.vercel.app/',
-      githubUrl: ''
+      liveUrl: 'https://soft-sell-mu-two.vercel.app/',
+      githubUrl: 'https://github.com/prernapreyshi/SoftSell'
     }
   ];
 
