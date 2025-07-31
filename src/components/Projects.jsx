@@ -19,8 +19,8 @@ const Projects = () => {
       description: 'A modern, responsive e-commerce platform built with React and Node.js, featuring a dynamic product display, smooth cart management, and intuitive user experience.',
       image: project1,
       technologies: ['React', 'Node.js', 'HTML', 'CSS','Tailwind'],
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: 'https://lavender-luxury.vercel.app/',
+      githubUrl: 'https://github.com/prernapreyshi/lavender-luxury'
     },
     {
       id: 2,
@@ -28,7 +28,7 @@ const Projects = () => {
       description: 'A comprehensive analytics dashboard for business intelligence. Built with Next.js and featuring real-time data visualization and interactive charts.',
       image: project2,
       technologies: ['React', 'JavaScript', 'API','HTML', 'CSS'],
-      liveUrl: '#',
+      liveUrl: 'https://analytics-dashboard-smoky-ten.vercel.app/',
       githubUrl: 'https://github.com/prernapreyshi/Analytics-Dashboard'
     },
     {
