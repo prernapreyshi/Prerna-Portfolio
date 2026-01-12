@@ -15,7 +15,7 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'E-Commerce Platform',
+      title: 'lavender-luxury',
       description: 'A modern, responsive e-commerce platform built with React and Node.js, featuring a dynamic product display, smooth cart management, and intuitive user experience.',
       image: project1,
       technologies: ['React', 'Node.js', 'HTML', 'CSS','Tailwind'],
@@ -24,21 +24,20 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: 'Analytics Dashboard',
-      description: 'A comprehensive analytics dashboard for business intelligence. Built with Next.js and featuring real-time data visualization and interactive charts.',
+      title: 'Personal Finance Visualizer',
+      description: 'A simple and modern web application to track personal finances with real-time charts, category breakdown, and budget insights.',
       image: project2,
       technologies: ['React', 'JavaScript', 'API','HTML', 'CSS'],
-      liveUrl: 'https://analytics-dashboard-smoky-ten.vercel.app/',
-      githubUrl: 'https://github.com/prernapreyshi/Analytics-Dashboard'
+      liveUrl: 'https://finance-visualizer-umber.vercel.app/',
+      githubUrl: 'https://github.com/prernapreyshi/FinanceVisualizer'
     },
-    {
-      id: 3,
-      title: 'Personal Blog',
-      description: 'A clean, minimalist blog platform with markdown support, tag system, and SEO optimization. Built with modern web technologies.',
+    {id: 3,
+      title: 'Stefens Rolls',
+      description: 'A modern, responsive e-commerce platform built with React and Node.js, featuring a dynamic product display, smooth cart management, and intuitive user experience.',
       image: project3,
-      technologies: ['React', 'Tailwind', 'HTML', 'CSS'],
-      liveUrl: '#',
-      githubUrl: '#'
+      technologies: ['React', 'Node.js', 'HTML', 'CSS','Tailwind'],
+      liveUrl: 'https://stefens-roll-website.vercel.app/',
+      githubUrl: 'https://github.com/prernapreyshi/Stefens-roll-website'
     },
     {
       id: 4,
