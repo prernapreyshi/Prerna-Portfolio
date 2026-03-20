@@ -19,7 +19,7 @@ const Projects = () => {
       description: 'A modern, responsive e-commerce platform built with React and Node.js, featuring a dynamic product display, smooth cart management, and intuitive user experience.',
       image: project1,
       technologies: ['React', 'Node.js', 'HTML', 'CSS','Tailwind'],
-      liveUrl: 'https://lavender-luxury.vercel.app/',
+      liveUrl: 'https://lavender-luxury-fkmx.vercel.app/',
       githubUrl: 'https://github.com/prernapreyshi/lavender-luxury'
     },
     {
