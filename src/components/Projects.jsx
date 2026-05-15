@@ -41,7 +41,7 @@ const Projects = () => {
     },
     {
       id: 4,
-      title: 'ShareMyRide',
+      title: 'ShareMyDrive',
       description: 'A simple, reliable ride-sharing platform connecting drivers and passengers in real-time. Built for convenience, trust, and seamless travel experiences.',
       image: project4,
       technologies: ['React', 'Tailwind', 'Node.js', 'API','Firebase','HTML','CSS','JavaScript','Chakra UI'],
