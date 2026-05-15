@@ -45,7 +45,7 @@ const Projects = () => {
       description: 'A simple, reliable ride-sharing platform connecting drivers and passengers in real-time. Built for convenience, trust, and seamless travel experiences.',
       image: project4,
       technologies: ['React', 'Tailwind', 'Node.js', 'API','Firebase','HTML','CSS','JavaScript','Chakra UI'],
-      liveUrl: 'https://share-my-.vercel.app/',
+      liveUrl: 'https://share-my-drive.vercel.app/',
       githubUrl: 'https://github.com/prernapreyshi/ShareMyDrive'
     },
     {
