@@ -29,7 +29,7 @@ const Projects = () => {
       image: project2,
       technologies: ['React', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'Cloudinary'],
       liveUrl: 'https://connect-sphere-pink.vercel.app/login',
-      githubUrl: 'https://github.com/prernapreyshi/ConnectSphere
+      githubUrl: 'https://github.com/prernapreyshi/ConnectSphere'
     },
       {
       id: 3,
