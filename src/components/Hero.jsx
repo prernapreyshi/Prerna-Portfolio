@@ -70,7 +70,7 @@ const Hero = () => {
             >
               <Button variant="outline" size="lg" className="group">
                 <Download className="w-4 h-4 group-hover:scale-110 transition-transform" />
-                Download CV
+                Download Resume
               </Button>
             </a>
           </div>
