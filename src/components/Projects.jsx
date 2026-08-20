@@ -6,7 +6,7 @@ import { ExternalLink, Github } from 'lucide-react';
 
 import project1 from '@/assets/project-1.png';
 import project2 from '@/assets/project-2.png';
-import project3 from '@/assets/project-3.jpg';
+import project3 from '@/assets/project-3.png';
 import project4 from '@/assets/project-4.png';
 import project5 from '@/assets/project-5.png';
 import project6 from '@/assets/project-6.png';
