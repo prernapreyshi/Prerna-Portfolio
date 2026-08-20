@@ -15,38 +15,39 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'lavender-luxury',
-      description: 'A modern, responsive e-commerce platform built with React and Node.js, featuring a dynamic product display, smooth cart management, and intuitive user experience.',
+      title: 'EncorHub-Event Ticket Booking Platform ',
+      description: 'Built a full-stack event booking platform with JWT auth, Google OAuth, real-time seat selection, Razorpay payments, and QR code e-ticket generation.',
       image: project1,
-      technologies: ['React', 'Node.js', 'HTML', 'CSS','Tailwind'],
-      liveUrl: 'https://lavender-luxury-fkmx.vercel.app/',
-      githubUrl: 'https://github.com/prernapreyshi/lavender-luxury'
+      technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'Razorpay'],
+      liveUrl: 'https://encore-hub.vercel.app/',
+      githubUrl: 'https://github.com/prernapreyshi/EncoreHub'
     },
     {
       id: 2,
-      title: 'Personal Finance Visualizer',
-      description: 'A simple and modern web application to track personal finances with real-time charts, category breakdown, and budget insights.',
+      title: 'ConnectSphere: Full-Stack Social Media Platform',
+      description: 'Developed a full-stack social media platform with secure authentication, user profiles, and post-sharing.',
       image: project2,
-      technologies: ['React', 'JavaScript', 'API','HTML', 'CSS'],
-      liveUrl: 'https://finance-visualizer-umber.vercel.app/',
-      githubUrl: 'https://github.com/prernapreyshi/FinanceVisualizer'
+      technologies: ['React', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'Cloudinary'],
+      liveUrl: 'https://connect-sphere-pink.vercel.app/login',
+      githubUrl: 'https://github.com/prernapreyshi/ConnectSphere
     },
-    {id: 3,
-      title: 'Stefens Rolls',
-      description: 'A modern, responsive e-commerce platform built with React and Node.js, featuring a dynamic product display, smooth cart management, and intuitive user experience.',
-      image: project3,
-      technologies: ['React', 'Node.js', 'HTML', 'CSS','Tailwind'],
-      liveUrl: 'https://stefens-roll-website.vercel.app/',
-      githubUrl: 'https://github.com/prernapreyshi/Stefens-roll-website'
-    },
-    {
-      id: 4,
-      title: 'ShareMyDrive',
+      {
+      id: 3,
+      title: 'ShareMyDrive: Carpooling Platform',
       description: 'A simple, reliable ride-sharing platform connecting drivers and passengers in real-time. Built for convenience, trust, and seamless travel experiences.',
       image: project4,
       technologies: ['React', 'Tailwind', 'Node.js', 'API','Firebase','HTML','CSS','JavaScript','Chakra UI'],
-      liveUrl: 'https://share-my-drive.vercel.app/',
+      liveUrl: 'https://share-my-drive-orpin.vercel.app/',
       githubUrl: 'https://github.com/prernapreyshi/ShareMyDrive'
+    },
+    
+    {id: 4,
+      title: 'FractionGame',
+      description: 'Interactive fraction learning game with a visual pie model, built using HTML, CSS, and JavaScript.',
+      image: project3,
+      technologies: ['HTML', 'CSS','Javascript', 'Three.js', 'Web Audio API'],
+      liveUrl: 'https://fraction-game-seven.vercel.app/',
+      githubUrl: 'https://github.com/prernapreyshi/FractionGame'
     },
     {
       id: 5,
